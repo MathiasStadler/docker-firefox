@@ -1,3 +1,15 @@
+# My copy of docker-firefox
+
+
+- Special thanks go to for his Docker firefox projects
+- Zach Deibert<zachdeibert@gmail.com>
+- Daniel Guerra <daniel.guerra69@gmail.com>
+
+# I'm add 
+
+
+
+
 # Docker Images
 This repository contains various `Dockerfile`s that will build many useful images.
 All of these images are also available on [DockerHub](https://hub.docker.com/r/zachdeibert/).
