@@ -5,10 +5,12 @@
 - Zach Deibert<zachdeibert@gmail.com>
 - Daniel Guerra <daniel.guerra69@gmail.com>
 
-# I'm add 
+# I'm modify 
+- add libcanberra-gtk3-module to apt-get install 
 
 
-
+# README.md file from  https://github.com/zachdeibert/docker-images.git
+- 23.June.2017
 
 # Docker Images
 This repository contains various `Dockerfile`s that will build many useful images.
